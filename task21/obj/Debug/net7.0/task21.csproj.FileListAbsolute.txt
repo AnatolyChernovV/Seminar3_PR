@@ -1,0 +1,15 @@
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\bin\Debug\net7.0\task21.exe
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\bin\Debug\net7.0\task21.deps.json
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\bin\Debug\net7.0\task21.runtimeconfig.json
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\bin\Debug\net7.0\task21.dll
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\bin\Debug\net7.0\task21.pdb
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.csproj.AssemblyReference.cache
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.AssemblyInfoInputs.cache
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.AssemblyInfo.cs
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.csproj.CoreCompileInputs.cache
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.dll
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\refint\task21.dll
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.pdb
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\task21.genruntimeconfig.cache
+C:\Users\chernova\Учеба\С#\Seminar3_PR\task21\obj\Debug\net7.0\ref\task21.dll
